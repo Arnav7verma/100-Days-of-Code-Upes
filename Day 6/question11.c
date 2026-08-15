@@ -23,4 +23,5 @@ int main(){
         printf("%d is Even",a);
     else
         printf("%d is Odd",a);
+    return 0;
 }
