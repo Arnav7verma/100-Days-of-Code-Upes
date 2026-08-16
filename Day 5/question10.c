@@ -26,4 +26,5 @@ int main(){
     printf("Hours:%d",hr);
     printf("\nmins:%d",min);
     printf("\nsec:%d",sec);
+    return 0;
 }
