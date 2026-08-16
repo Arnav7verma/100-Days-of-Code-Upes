@@ -30,4 +30,5 @@ int main(){
     printf("\nAfter swap:\n");
     printf("a:%d",a);
     printf("b:%d",b);
+    return 0;
 }   
