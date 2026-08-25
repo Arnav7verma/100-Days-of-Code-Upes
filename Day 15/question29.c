@@ -22,4 +22,5 @@ int main(){
         f=f*i;
     }
     printf("%d",f);
+    return 0;
 }

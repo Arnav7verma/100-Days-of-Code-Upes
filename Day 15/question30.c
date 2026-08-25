@@ -26,5 +26,5 @@ int main(){
     }
     s=s/10;
     printf("%ld",s);
-    
+    return 0;
 }
